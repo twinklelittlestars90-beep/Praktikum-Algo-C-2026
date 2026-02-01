@@ -11,7 +11,7 @@ None Type      :	NoneType
 
 # Melihat tipe data
 a = 5
-print(type(x))
+print(type(a))
 
 
 # Menentukan tipe data spesifik

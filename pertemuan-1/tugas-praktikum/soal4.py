@@ -1,3 +1,5 @@
+# LOOP MENAMPILKAN BILANGAN DAN JUMLAHNY SEBANYAK N KALI
+
 n = int(input('Banyak angka: '))
 
 for x in range(1, n+1):
