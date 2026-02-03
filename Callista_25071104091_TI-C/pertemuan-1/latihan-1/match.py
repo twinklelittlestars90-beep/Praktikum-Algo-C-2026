@@ -14,3 +14,4 @@ match mood:
     print("hhhhhh")
   case 7:
     print("hhhhhhh")
+#value mood akan diuji dari awal hingga mnemukan value yang == untuk dijalankan kodenya
