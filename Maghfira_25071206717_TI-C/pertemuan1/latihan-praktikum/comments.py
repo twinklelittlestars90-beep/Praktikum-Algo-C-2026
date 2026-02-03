@@ -1,4 +1,0 @@
-# Komentar
-"""
-Komentar panjang
-"""
