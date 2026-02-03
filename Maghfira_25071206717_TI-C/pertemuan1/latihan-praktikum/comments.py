@@ -1,0 +1,4 @@
+# Komentar
+"""
+Komentar panjang
+"""
